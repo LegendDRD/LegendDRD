@@ -8,11 +8,11 @@ Open to full-stack and backend roles in France or anywhere in Europe (on-site, h
 
 ---
 
-###  What I've been building
+### What I've built at Airla
 
-Most of my professional work is in private company repos, so here's a summary:
+My professional work belongs to Airla and lives in private company repos, so here's a summary:
 
-- **Hobbs**: a time-tracking, billing and reporting SaaS for law firms that I designed, built and launched. It's an installable PWA built with Next.js, Node.js and MariaDB on AWS EC2, with S3 file storage and PDF/spreadsheet exports. It took 2 months to build plus 1 month of testing, and has been live with paying customers since 2026.
+- **Hobbs**: Airla's time-tracking, billing and reporting SaaS for law firms, which I designed, built and launched. It's an installable PWA built with Next.js, Node.js and MariaDB on AWS EC2, with S3 file storage and PDF/spreadsheet exports. It took 2 months to build plus 1 month of testing, and has been live with paying customers since 2026.
 - **Airla client & operations portal**: quoting, one-click quote-to-invoice, payment tracking, support tickets and project management, plus a client area where customers manage their tickets, connect website analytics and view invoices.
 - **Learning & social-media platform** (tech lead): Next.js, Express, MySQL and AWS, with an OpenAI-powered assistant, Meta/LinkedIn/TikTok API integrations and PayFast payments.
 - **Earlier work**: a biometric identity-verification app in Kotlin, an Electron document-management system with OCR and LLM summaries, and serverless APIs on AWS Lambda.
